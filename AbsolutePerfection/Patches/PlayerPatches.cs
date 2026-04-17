@@ -1,4 +1,5 @@
-﻿using HarmonyLib;
+﻿using System;
+using HarmonyLib;
 
 namespace AP.Patches {
     [HarmonyPatch]
@@ -18,7 +19,18 @@ namespace AP.Patches {
             }
             
             if (ModConfig.Enabled.GetValue() && damage > 0) {
-                SceneHelper.RestartScene();
+                switch (ModConfig.Punishment.GetValue()) {
+                    case PunishmentType.RestartLevel:
+                        OptionsManager.Instance.RestartMission();
+                        break;
+                    case PunishmentType.RestartCheckpoint:
+                        OptionsManager.Instance.RestartCheckpoint();
+                        break;
+                    default:
+                        HudMessageReceiver.Instance.SendHudMessage(
+                            $"<color=red>Unimplemented punishment: {Enum.GetName(typeof(PunishmentType), ModConfig.Punishment.GetValue())}");
+                        break;
+                }
             }
         }
     }
