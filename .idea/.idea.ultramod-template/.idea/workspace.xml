@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7fe2e8c2-2a56-4e19-b839-c68b1cc1713d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ultramod-template/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ultramod-template/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ultramod-template/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ultramod-template/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyMod/MyMod.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/AbsolutePerfection/AbsolutePerfection.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyMod/Plugin.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AbsolutePerfection/Plugin.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyMod/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AbsolutePerfection/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ultramod-template.sln" beforeDir="false" afterPath="$PROJECT_DIR$/AbsolutePerfection.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbsolutePerfection/ModConfig.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbsolutePerfection/Patches/PlayerPatches.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ultramod-template/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ultramod-template/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbsolutePerfection/AbsolutePerfection.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/AbsolutePerfection/AbsolutePerfection.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbsolutePerfection/Plugin.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AbsolutePerfection/Plugin.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "averyocean65"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/averyocean65/AbsolutePerfection.git",
+    "accountId": "34a649bb-228e-4dbe-8387-22555f0a61c1"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
@@ -33,6 +46,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -60,13 +77,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1776408233143</updated>
-      <workItem from="1776408251094" duration="274000" />
+      <workItem from="1776408251094" duration="2174000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityProjectDiscoverer">
     <option name="hasUnityReference" value="true" />
   </component>

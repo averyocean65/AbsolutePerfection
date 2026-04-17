@@ -41,12 +41,17 @@
         <Reference Include="$(BepInExCore)/0Harmony.dll"/>
         <Reference Include="$(BepInExCore)/BepInEx.dll"/>
 
+        <Reference Include="$(BepInExPlugins)/Configgy.dll"/>
+        <Reference Include="$(BepInExPlugins)/AUU.dll"/>
+        
         <Reference Include="$(ManagedDir)/Assembly-CSharp.dll"/>
 
         <Reference Include="$(ManagedDir)/UnityEngine.dll"/>
         <Reference Include="$(ManagedDir)/UnityEngine.CoreModule.dll"/>
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="ModConfig.cs" />
+        <Compile Include="Patches\PlayerPatches.cs" />
         <Compile Include="Plugin.cs" />
         <Compile Include="Properties\AssemblyInfo.cs"/>
     </ItemGroup>

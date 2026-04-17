@@ -1,7 +1,12 @@
-# ultramod-template
-A template for ULTRAKILL mods!
+# Absolute Perfection
+Can you beat every ULTRAKILL level without getting hurt once?
 
 # Development
+## Dependencies
+This mod depends on the following packages:
+- Configgy, `BepInEx/plugins/Configgy.dll`
+- AUU, `BepInEx/plugins/AUU.dll`
+
 ## Using a custom ULTRAKILL path?
 If you're using a custom ULTRAKILL path, for example to preserve hard drive space on your OS partition, or for other reasons, ULTRAPORTAL will not compile out of the box.
 You need to create a file in the project root directory called `ULTRAKILLPATH.user`, where you can specify your custom game path like this:
