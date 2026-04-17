@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fe2e8c2-2a56-4e19-b839-c68b1cc1713d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AbsolutePerfection/ModConfig.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbsolutePerfection/Patches/PlayerPatches.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ultramod-template/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ultramod-template/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbsolutePerfection/AbsolutePerfection.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/AbsolutePerfection/AbsolutePerfection.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbsolutePerfection/ModConfig.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AbsolutePerfection/ModConfig.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbsolutePerfection/Patches/PlayerPatches.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AbsolutePerfection/Patches/PlayerPatches.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AbsolutePerfection/Plugin.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AbsolutePerfection/Plugin.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1776408233143</updated>
-      <workItem from="1776408251094" duration="2174000" />
+      <workItem from="1776408251094" duration="3485000" />
     </task>
     <servers />
   </component>
