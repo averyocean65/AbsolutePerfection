@@ -6,9 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7fe2e8c2-2a56-4e19-b839-c68b1cc1713d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ultramod-template/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ultramod-template/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbsolutePerfection/ModConfig.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AbsolutePerfection/ModConfig.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AbsolutePerfection/Patches/PlayerPatches.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AbsolutePerfection/Patches/PlayerPatches.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbsolutePerfection/Plugin.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AbsolutePerfection/Plugin.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +29,16 @@
     "accountId": "34a649bb-228e-4dbe-8387-22555f0a61c1"
   }
 }]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4e561de530a44616832732cb966eeb2e2aa200/19/4cc0691e/NewMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4e561de530a44616832732cb966eeb2e2aa200/87/9a9fa96d/StatsManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4e561de530a44616832732cb966eeb2e2aa200/89/c7215d93/ShotgunShell.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4e561de530a44616832732cb966eeb2e2aa200/98/005bca74/FinalRank.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4e561de530a44616832732cb966eeb2e2aa200/c6/e95db0b7/Shotgun.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4e561de530a44616832732cb966eeb2e2aa200/ce/e664eeee/Projectile.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4e561de530a44616832732cb966eeb2e2aa200/ee/98370403/Explosion.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4e561de530a44616832732cb966eeb2e2aa200/f1/d6b6ef01/StyleHUD.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
@@ -75,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1776408233143</updated>
-      <workItem from="1776408251094" duration="3485000" />
+      <workItem from="1776408251094" duration="5087000" />
     </task>
     <servers />
   </component>

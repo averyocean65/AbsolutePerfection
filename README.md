@@ -1,6 +1,9 @@
 # Absolute Perfection
 Can you beat every ULTRAKILL level without getting hurt once?
 
+## Clarification
+ULTRAKILL already has end screen modifiers that indicate if you completed a level without taking any damage, this mod just makes it so the current level automatically restarts when that parameter is no longer fulfilled.
+
 # Development
 ## Dependencies
 This mod depends on the following packages:
